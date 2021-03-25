@@ -1,3 +1,10 @@
+A E-commerce store that utilizes Commerce.js, Stripe, and React JS.
+Here is a link to the site: https://sportswearshop.netlify.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
